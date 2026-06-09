@@ -48,7 +48,6 @@ A multi-sheet personal finance tracker built in Excel to analyse 12 months of in
 
 ### Conditional aggregation
 - `SUMIFS` — aggregates income and expenses by month and type simultaneously using `DATE()` boundary conditions
-- `COUNTIFS` / `AVERAGEIFS` — transaction count and average spend per category
 
 ### Logic
 - Nested `IF` — 4-level savings health flag per month: Deficit → Low savings → Moderate → Healthy, calculated against savings rate thresholds
