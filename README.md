@@ -19,7 +19,8 @@ A multi-sheet personal finance tracker built in Excel to analyse 12 months of in
 ![Budget tracker comparing planned spend to actual spend by category](images/budgets.png)
 
 ### Pivot tables
-![Pivot table showing monthly breakdown with slicer filters](images/pivot.png)
+![Pivot table showing monthly breakdown with slicer filters](images/pivot1.png)
+![Pivot table showing category-wise expense breakdown with filter](images/pivot2.png)
 
 ---
 
