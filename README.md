@@ -7,19 +7,19 @@ A multi-sheet personal finance tracker built in Excel to analyse 12 months of in
 ## 📸 Preview
 
 ### Summary sheet
-![](images/summary.png.png)
+![](images/summary.png)
 *Monthly income vs expenses summary with SUMIFS-driven totals, savings health status flags, and category spend breakdown*
 
 ### Charts
-![](images/charts.png.png)
+![](images/charts.png)
 *Clustered column chart comparing monthly income vs expenses, and pie chart showing annual spend by category*
 
 ### Budget vs actual
-![](images/budgets.png.png)
+![](images/budgets.png)
 *Annual budget tracker comparing planned spend to actual spend per category using cross-sheet VLOOKUP*
 
 ### Pivot tables
-![](images/pivot1.png.png)
+![](images/pivot1.png)
 *Pivot table replicating the monthly income vs expenses summary — built alongside SUMIFS to compare both approaches*
 
 ---
