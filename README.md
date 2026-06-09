@@ -43,8 +43,10 @@ A multi-sheet personal finance tracker built in Excel to analyse 12 months of in
 ## 📐 Excel skills demonstrated
 
 ### Lookup & reference
-- `INDEX-MATCH` — identifies highest and lowest savings month by value lookup; handles ties using `TEXTJOIN + IF` array formula (`Ctrl + Shift + Enter`)
+- `INDEX-MATCH` — identifies highest and lowest savings month by value lookup
+- `TEXTJOIN + IF` (array formula) — identifies highest and lowest income and expense months; handles multiple months tied at the same value by returning all tied months as a comma-separated result
 - `VLOOKUP` — pulls budget figures from the `BUDGETS` sheet using cross-sheet reference (`Budgets!$A$2:$B$7`)
+
 
 ### Conditional aggregation
 - `SUMIFS` — aggregates income and expenses by month and type simultaneously using `DATE()` boundary conditions
@@ -79,6 +81,8 @@ A multi-sheet personal finance tracker built in Excel to analyse 12 months of in
 | Lowest savings month | November (–₹6,500, deficit) |
 | Deficit months | September, November |
 | Largest expense category | Food (₹19,463) |
+| Highest income month | May (₹58,000) |
+| Highest expense month | April (₹11,695) |
 
 ---
 
